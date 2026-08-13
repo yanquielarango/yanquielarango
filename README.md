@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Yanquiel 👋
 
-<!--
-**yanquielarango/yanquielarango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineer in the making, based in Warsaw. I build data pipelines and work with SQL, Python, and cloud data platforms to turn raw data into something reliable and usable.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building production-style data pipelines and strengthening my cloud data engineering skills
+- 🌱 Background in analytics, with hands-on experience in SQL and BI tooling
+- 💡 Focused on data quality, pipeline reliability, and clean, well-documented code
+- 📍 Warsaw, Poland
+
+## Skills
+
+**Languages & Query:** Python · SQL
+
+**Data Engineering:** ETL/ELT pipelines · Batch & streaming data processing · Data modeling · Data quality & validation
+
+**Cloud & Platforms:** Cloud data warehousing · Distributed data processing
+
+**Tools & Practices:** Git & GitHub · CI/CD · Infrastructure as code
+
+## What I'm working on
+
+Actively building out a portfolio of data engineering projects — from raw ingestion to clean, analytics-ready datasets — while deepening my knowledge of distributed systems and modern data platforms.
+
+## Let's connect
+
+- 💼 LinkedIn: _add your link here_
+- 📁 Portfolio: _add your link here_
+- 📫 Reach out if you'd like to collaborate or talk data engineering
+
+---
+
+*This profile is a work in progress — check back for updates as I keep building.*
